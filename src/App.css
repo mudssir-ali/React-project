@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    padding: 90px 0 90px 0;
+}
+
+.sub-main{
+    display: flex;
+    height: auto;
+}
+ 
+.img1{
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+}
