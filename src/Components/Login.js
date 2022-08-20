@@ -2,7 +2,7 @@ import * as React from 'react'
 import VisibilityOutlinedIcon from '@mui/icons-material/VisibilityOutlined'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import { Link } from 'react-router-dom'
-import logoimage from '../images/logo.png'
+import logoimage from '../assets/logo.png'
 
 
 
