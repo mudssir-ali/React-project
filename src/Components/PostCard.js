@@ -2,10 +2,10 @@ import React from 'react'
 import MoreHorizIcon from '@mui/icons-material/MoreHoriz'
 import ChatBubbleOutlineRoundedIcon from '@mui/icons-material/ChatBubbleOutlineRounded'
 import { UseContext } from '../Context/context'
-
+// import img1 from "../image/img1.jpg"
 const PostCard = ({ data }) => {
-    const { name, emoji, img, msg, time, comments, edited } = data
-
+    const { name, emoji, img1, msg, time, comments, edited } = data
+console.log("data check",img1);
     const { setIsModalOpen } = UseContext()
     return (
         <section
@@ -17,7 +17,7 @@ const PostCard = ({ data }) => {
                     <div>
                         <img
                             className='rounded-full w-12 h-12'
-                            src={img}
+                            src={img1}
                             alt={name}
                         />
                     </div>

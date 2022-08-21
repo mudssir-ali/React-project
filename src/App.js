@@ -10,6 +10,7 @@ function App() {
             <Modal />
             <Routes>
                 <Route path='/' element={<Home />} />
+                <Route path='frontend-task' element={<Home />} />
                 <Route path='community' element={<Posts />} />
             </Routes>
         </BrowserRouter>

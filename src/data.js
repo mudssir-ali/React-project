@@ -1,9 +1,11 @@
+import img1 from "./image/img1.jpg";
+import img2 from "./image/img2.jpg";
 export const communityData = [
     {
         id: 1,
         name: 'Theresa Webb',
         emoji: '👋',
-        img: '/image/istockphoto-1335295926-170667a.jpg',
+        img1: img1,
         msg: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.',
         time: '5 mins ago',
         comments: 24,
@@ -13,7 +15,7 @@ export const communityData = [
         id: 2,
         name: 'Mudssir',
         emoji: '😞',
-        img: '/image/istockphoto-1343808526-170667a.jpg',
+        img1: img2,
         msg: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.',
         time: '8 mins ago',
         comments: 20,
