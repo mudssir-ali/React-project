@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/frontend-task/static/css/main.a588a250.css",
-    "main.js": "/frontend-task/static/js/main.e846832e.js",
-    "static/media/img2.jpg": "/frontend-task/static/media/img2.afbf16ac4fb8ccb27768.jpg",
-    "static/media/img1.jpg": "/frontend-task/static/media/img1.bfa673c3e0a5d77881a7.jpg",
-    "index.html": "/frontend-task/index.html",
-    "main.a588a250.css.map": "/frontend-task/static/css/main.a588a250.css.map",
-    "main.e846832e.js.map": "/frontend-task/static/js/main.e846832e.js.map"
+    "main.css": "/frontend-developer-task/static/css/main.15d41b57.css",
+    "main.js": "/frontend-developer-task/static/js/main.845998f0.js",
+    "static/media/img2.jpg": "/frontend-developer-task/static/media/img2.afbf16ac4fb8ccb27768.jpg",
+    "static/media/img1.jpg": "/frontend-developer-task/static/media/img1.bfa673c3e0a5d77881a7.jpg",
+    "index.html": "/frontend-developer-task/index.html",
+    "main.15d41b57.css.map": "/frontend-developer-task/static/css/main.15d41b57.css.map",
+    "main.845998f0.js.map": "/frontend-developer-task/static/js/main.845998f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a588a250.css",
-    "static/js/main.e846832e.js"
+    "static/css/main.15d41b57.css",
+    "static/js/main.845998f0.js"
   ]
 }
