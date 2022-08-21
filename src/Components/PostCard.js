@@ -9,8 +9,8 @@ console.log("data check",img1);
     const { setIsModalOpen } = UseContext()
     return (
         <section
-            onClick={() => setIsModalOpen(true)}
-            className='bg-gray-800 rounded-md mt-5 p-3 w-full '
+          
+            className='bg-gray-800 rounded-md mt-5 p-3 w-full'
         >
             <div className='flex justify-between '>
                 <div className='flex flex-row px-2'>

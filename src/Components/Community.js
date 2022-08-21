@@ -18,6 +18,7 @@ const Community = () => {
                 </p>
             </header>
             <NewPost  />
+        
             {posts}
         </main>
     )

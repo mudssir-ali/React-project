@@ -8,7 +8,7 @@ const NewPost = () => {
 
     return (
         <section
-            onClick={() => setIsModalOpen(true)}
+       
             className='bg-gray-800 rounded-md mt-5 p-3 w-full '
         >
             <div className='flex justify-between '>
@@ -27,7 +27,7 @@ const NewPost = () => {
                 <p className='text-gray-500 px-2'>How are you doing today?</p>
             </div>
             <div className='flex justify-end  '>
-                <button className="bg-blue-500 px-8 py-2 text-white font-semibold rounded m-5">Post</button>
+                <button className="bg-blue-500 px-8 py-2 text-white font-semibold rounded m-5"      onClick={() => setIsModalOpen(true)}>Post</button>
             </div>
         </section>
     )
